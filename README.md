@@ -1,6 +1,6 @@
-# Classification
+# Anti Deep Fake
 
-XceptionNet from our paper trained on our FaceForensics++ dataset. Besides the full image models, all models were trained on slightly enlarged face crops with a scale factor of 1.3.
+XceptionNet from the paper trained on our FaceForensics++ dataset. Besides the full image models, all models were trained on slightly enlarged face crops with a scale factor of 1.3.
 The models were trained using the Face2Face face tracker, though the `detect_from_models.py` file uses the freely available dlib face detector.
 
 Note that we provide the trained models from our paper which have not been fine-tuned for general compressed videos. You can find our used models under [this link](https://github.com/pourabkarchaudhuri/anti-deep-fake/releases/download/1.0/antideepfake_models.1.zip).   
