@@ -1,5 +1,5 @@
 # Anti Deep Fake
-A Deep Learning classification to detect faked videos from video inputs and render them as an exported output with annotaions of people's faces in the video as "real" or "fake", using FaceForensics++ paper @ ~60% accuracy on HD videos
+A Deep Learning classification to detect faked videos from video inputs and render them as an exported output with annotaions of people's faces in the video as `real` or `fake`, using FaceForensics++ paper @ ~60% accuracy on HD videos
 &nbsp;
 ![Tensorflow](https://miro.medium.com/max/512/0*1HWz9KQ-duZZykT7.png)
 
